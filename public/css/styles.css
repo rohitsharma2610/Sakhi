@@ -145,7 +145,7 @@ body {
 /* Hero Section */
 .hero {
     padding: 12rem;
-    background: url(main\ content.jpg);
+    background-image: url(/assets/main\ content.jpg);
     background-size: cover;
     background-position: center center;
     margin-bottom: 30px;
